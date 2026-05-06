@@ -1,19 +1,9 @@
-<div align="center">
-    <h1>AgriGuard AI: Climate Risk Platform</h1>
-</div>
-
-<div align="center">
-    <h3>Link : https://agrisens.netlify.app/ </h3>
-</div>
-
-![Screenshot 2025-01-22 210034](https://github.com/user-attachments/assets/5b945e7d-bbb0-4463-b06f-681445e102bd)
 
 > [!WARNING]
 > **🚨 New Version of Crop Recommendation System Available**
 > 
 > A new, significantly updated version of the Crop Recommendation System with extra features is now available: **AI-Powered Crop Recommendation System for India: District and Month-Specific Insights for Optimized Agricultural Practices**.
 > 
-> 👉 **[Click here to visit the new repository](https://github.com/ravikant-diwakar/MAJOR-PROJECT_8TH-SEM)**
 
 
 ## Overview
@@ -26,7 +16,7 @@ Smart Farming Assistant is an innovative solution that uses advanced technology 
 
 - [IEEE : Smart Crop Recommendation System with Plant Disease Identification](https://ieeexplore.ieee.org/document/10738975)
 
-- You can view the research paper directly here : [View Paper](https://github.com/ravikant-diwakar/AgriSens/blob/master/IEEE_Paper_Smart_Crop_Recommendation_System_with_Plant_Disease_Identification.pdf)
+- You can view the research paper directly here : [View Paper](https://github.com/AgriGuard AI/blob/master/IEEE_Paper_Smart_Crop_Recommendation_System_with_Plant_Disease_Identification.pdf)
 
 
 ## Features
@@ -224,10 +214,11 @@ These results demonstrate the effectiveness of the Smart Crop Recommendation Sys
 
 
 ## 👨‍💻 CONTRIBUTERS
-- [Ravikant Diwakar](https://github.com/ravikant-diwakar)
-- [Amit Kumar](https://github.com/AMITKUMAR7970)
-- [Gaurav Kumar](https://github.com/Gauravkumar1741)
-- Aditya Chaudhary
+- [Mohit Kukde](https://github.com/mohitkukde)
+- [Harsh Suryawanshi](https://github.com/Harshsuryawanshi)
+- [Vivek Methade](https://github.com/VivekMethade)
+- Samarjeet raje
+-
 
 ## 📷 Screenshots
 
@@ -262,7 +253,7 @@ These results demonstrate the effectiveness of the Smart Crop Recommendation Sys
 
 ## 📧 Contact
 
-If you have any questions or feedback, feel free to reach out to us at [🔗Link](https://agrisens.netlify.app/form/).
+If you have any questions or feedback, feel free to reach out to us at [🔗Link](https://agriguard-ai.netlify.app/form/).
 
 ---
 
