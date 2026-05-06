@@ -3,7 +3,5 @@ pandas
 numpy
 scikit-learn
 Pillow
-tensorflow
 opencv-python-headless
-matplotlib
-seaborn
+
