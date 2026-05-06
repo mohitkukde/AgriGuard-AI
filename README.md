@@ -10,13 +10,6 @@
 
 Smart Farming Assistant is an innovative solution that uses advanced technology to help farmers improve productivity and make better decisions. The platform features a Smart Crop Recommendation system powered by machine learning to suggest optimal crops based on soil nutrients, climate, and historical data. It also includes a Plant Disease Identification tool using convolutional neural networks (CNNs) to accurately diagnose plant diseases from uploaded images, enabling timely intervention. Additional features such as real-time Weather Forecasts, tailored Fertilizer Recommendations based on soil quality and crop requirements, and a Smart Farming Guide for crop management further enhance its value. With a user-friendly web app, farmers can easily access these insights and tools to improve farming practices.
 
-## Research Paper
-
-> This project is based on the research paper published on IEEE. You can find the paper at the following link:
-
-- [IEEE : Smart Crop Recommendation System with Plant Disease Identification](https://ieeexplore.ieee.org/document/10738975)
-
-- You can view the research paper directly here : [View Paper](https://github.com/AgriGuard AI/blob/master/IEEE_Paper_Smart_Crop_Recommendation_System_with_Plant_Disease_Identification.pdf)
 
 
 ## Features
@@ -31,8 +24,7 @@ Smart Farming Assistant is an innovative solution that uses advanced technology 
 
 ## Datasets
 
-The **Smart Farming Assistant** project provides three key datasets: the **Crop Recommendation Dataset** (2200 rows) includes soil and environmental factors such as nitrogen, phosphorous, temperature, humidity, and pH to predict the most suitable crops; the **Plant Disease Identification Dataset** contains 70,295 training and 17,572 validation images covering 38 diseases across 14 crops like Apple, Tomato, and Grape, used to train CNN models for disease detection; and the **Fertilizer Recommendation Dataset** offers data on soil quality and crop needs to provide tailored fertilizer suggestions. These datasets can be accessed via the following links: [Crop Recommendation Dataset](https://github.com/ravikant-diwakar/AgriSens/blob/master/Datasets/Crop_recommendation.csv), [Plant Disease Dataset](https://github.com/ravikant-diwakar/AgriSens/tree/master/Datasets), and [Fertilizer Recommendation Dataset](https://github.com/ravikant-diwakar/AgriSens/blob/master/Datasets/Fertilizer_recommendation.csv).
-
+The **Smart Farming Assistant** project provides three key datasets: the **Crop Recommendation Dataset** (2200 rows) includes soil and environmental factors such as nitrogen, phosphorous, temperature, humidity, and pH to predict the most suitable crops; the **Plant Disease Identification Dataset** contains 70,295 training and 17,572 validation images covering 38 diseases across 14 crops like Apple, Tomato, and Grape, used to train CNN models for disease detection; and the **Fertilizer Recommendation Dataset** offers data on soil quality and crop needs to provide tailored fertilizer suggestions. These datasets can be accessed via the following links: [Crop Recommendation Dataset](https://github.com/ravikant-diwakar/AgriSens/blob/master/Datasets/Crop_recommendation.csv), [Plant Disease Dataset] and [Fertilizer Recommendation Dataset](
 # 📌 Crop Recommendation Model
 
 The **Crop Recommendation Model** utilizes machine learning algorithms to suggest the most suitable crops for farmers based on environmental and soil factors. By analyzing data such as soil nutrients, temperature, humidity, pH, and rainfall, the model provides tailored crop recommendations to ensure optimal growth and productivity. The model uses seven classification algorithms, with **Random Forest** achieving the highest accuracy of 99.55%. This helps farmers make informed decisions on crop selection, ensuring better yields and efficient farming practices.
@@ -195,7 +187,6 @@ Found 17572 files belonging to 38 classes.
 
 | Training and validation (accuracy and loss) CNN |
 |---------------------------------------------|
-| ![image](https://github.com/ravikant-diwakar/AgriSens-SMART-CROP-RECOMMENDATION-SYSTEM-WITH-PLANT-DISEASE-IDENTIFICATION/assets/110620635/71e95ae9-05df-44dd-8192-133180981113) ![image](https://github.com/ravikant-diwakar/AgriSens-SMART-CROP-RECOMMENDATION-SYSTEM-WITH-PLANT-DISEASE-IDENTIFICATION/assets/110620635/9a11536a-8480-41cd-8099-9c0cec2c2c62) |
 
 
 These results demonstrate the effectiveness of the Smart Crop Recommendation System with Plant Disease Identification in assisting farmers with informed crop selection and disease management, thereby contributing to improved agricultural practices and crop yields.
